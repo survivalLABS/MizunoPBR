@@ -1,7 +1,7 @@
 # SurvivalM Textures (Edit of Mizuno 16x textures)
-Base: Property of [Mizuno](https://mizunomcmemo.blogspot.com/).
-This resourcepack adds Normal & Specular textures, which are [LabPBR 1.3 complaint](https://github.com/rre36/lab-pbr/wiki).
-For compatible shaderpacks, click [here](https://github.com/rre36/lab-pbr/wiki/Shader-Packs).
+- Base: Property of [Mizuno](https://mizunomcmemo.blogspot.com/).
+- This resourcepack adds Normal & Specular textures, which are [LabPBR 1.3 complaint](https://github.com/rre36/lab-pbr/wiki).
+- For compatible shaderpacks, click [here](https://github.com/rre36/lab-pbr/wiki/Shader-Packs).
 ## Installation
 It's easy.
 - Click on "Clone or download" and Download ZIP.
