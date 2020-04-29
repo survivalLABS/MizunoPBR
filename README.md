@@ -5,7 +5,13 @@ For compatible shaderpacks, click [here](https://github.com/rre36/lab-pbr/wiki/S
 ## Installation
 It's easy.
 - Click on "Clone or download" and Download ZIP.
-- You put zip file into resourcepack folder in your Minecraft folder, it may depend if you use Official Launcher, Technic Launcher, etc. There are multiple way to get into that folder. You can either open it via Minecraft, so in Main Menu/Pause Menu, you go into Options, then Resourcepacks after finally, you just click on "Open Resourcepack Folder".
-![ORPIM](https://cdn.discordapp.com/attachments/702569331996754070/705016384161316944/openresourcepackviaminecraft.gif)
+- You put zip file into resourcepack folder in your Minecraft folder.
+    - There are multiple way to get into that folder.
+        -  (For all Minecraft instances)You can open it via Minecraft, in Main Menu/Pause Menu, you go into Options, then Resourcepacks after finally, you just click on "Open Resourcepack Folder".
+        ![ORPIM](https://cdn.discordapp.com/attachments/702569331996754070/705016384161316944/openresourcepackviaminecraft.gif)
+        - (For official/cracked Minecraft launcher only) You can go directly to its location with Explorer or something. NOTE: Only for Minecraft installed with Official Launcher, it differs between MultiMC, Technic Launcher, etc.
+            - Windows `%appdata%\.minecraft\resourcepacks`
+            - MacOS `~/Library/Application Support/minecraft/resourcepacks`
+            - Linux `~/.minecraft/resourcepacks/`
 ## Warning
 **Do not distribute this edition without the consent of the collaborators.**
