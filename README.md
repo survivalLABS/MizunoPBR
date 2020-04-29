@@ -4,7 +4,7 @@
 - For compatible shaderpacks, click [here](https://github.com/rre36/lab-pbr/wiki/Shader-Packs).
 ## Installation
 It's easy.
-- Click on "Clone or download" and Download ZIP.
+- Download Resourcepack from [Releases](https://github.com/BurnblazeX/SurvivalM-Textures/releases).
 - You put zip file into resourcepack folder in your Minecraft folder.
     - There are multiple way to get into that folder.
         -  **(For all Minecraft instances)** You can open it via Minecraft, in Main Menu/Pause Menu, you go into Options, then Resourcepacks after finally, you just click on "Open Resourcepack Folder".
