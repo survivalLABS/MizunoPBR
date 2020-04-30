@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/oak_leaves",
-		"particle": "block/oak_leaves"
+		"0": "block/acacia_leaves",
+		"particle": "block/acacia_leaves"
 	},
 	"elements": [
 		{
