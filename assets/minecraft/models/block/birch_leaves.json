@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/oak_leaves",
-		"particle": "block/oak_leaves"
+		"0": "block/birch_leaves",
+		"particle": "block/birch_leaves"
 	},
 	"elements": [
 		{
@@ -77,7 +77,7 @@
 		},
 		{
 			"from": [9.25, -5.25, -2.5],
-			"to": [9.25, 22, 19.75],
+			"to": [9.25, 23.75, 19.75],
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [9.25, 16, 7]},
 			"faces": {
