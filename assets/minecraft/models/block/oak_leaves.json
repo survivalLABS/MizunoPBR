@@ -1,5 +1,6 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by JoubaMety with Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"0": "block/oak_leaves",
 		"particle": "block/oak_leaves"
