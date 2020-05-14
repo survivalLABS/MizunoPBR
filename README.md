@@ -5,7 +5,7 @@
 - Collaborators: Poudingue, RobotPantaloons, HardTop, JoubaMety, Pasquale, Alex, Evelyn
 ## Installation
 It's easy.
-- Download Resourcepack from [Releases](https://github.com/BurnblazeX/SurvivalM-Textures/releases).
+- Download Resourcepack from [Releases](https://github.com/survivalLABS/MizunoPBR/releases).
 - You put zip file into resourcepack folder in your Minecraft folder.
     - There are multiple way to get into that folder.
         -  **(For all Minecraft instances)** You can open it via Minecraft, in Main Menu/Pause Menu, you go into Options, then Resourcepacks after finally, you just click on "Open Resourcepack Folder".
