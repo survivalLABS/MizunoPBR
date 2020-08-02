@@ -5,8 +5,8 @@
 - Collaborators: **Poudingue**, **RobotPantaloons**, **HardTop**, **JoubaMety**, **Pasquale**, **Alex**, **Evelyn**.
 ## Installation
 It's easy.
-- Download Resourcepack by clicking on green button **Code**.
-- You unzip/extract the zip file inside the resourcepack folder.
+- Download Resourcepack by clicking on green button `Code`.
+- Unzip/extract the zip file inside the `resourcepacks` folder.
     - There are multiple way to get into that folder.
         -  **(For all Minecraft instances)** You can open it via Minecraft, in Main Menu/Pause Menu, you go into Options, then Resourcepacks after finally, you just click on "Open Resourcepack Folder".
 
@@ -16,5 +16,6 @@ It's easy.
             - Windows `%appdata%\.minecraft\resourcepacks`
             - MacOS `~/Library/Application Support/minecraft/resourcepacks`
             - Linux `~/.minecraft/resourcepacks/`
+- Apply resourcepack by hovering over MizunoPBR, click on arrow and then click on button `Done`.
 ## Warning
-**Do not distribute this edition without the consent of the collaborators.**
+**Do not distribute this edition without the consent of the survivalLABS.**
