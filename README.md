@@ -1,8 +1,9 @@
 # MizunoPBR (Edit of Mizuno 16x)
 - Base: Property of [Mizuno](https://mizunomcmemo.blogspot.com/).
-- This resourcepack adds Normal & Specular textures, which are [labPBR 1.3 complaint](https://github.com/rre36/lab-pbr/wiki).
+- This resourcepack adds Normal, Specular and POM (on some) textures, which are [labPBR 1.3 complaint](https://github.com/rre36/lab-pbr/wiki).
 - For compatible shaderpacks, click [here](https://github.com/rre36/lab-pbr/wiki/Shader-Packs).
 - Collaborators: **Poudingue**, **RobotPantaloons**, **HardTop**, **JoubaMety**, **Pasquale**, **Alex**, **Evelyn**.
+- For this version: **BurnblazeX**
 ## Installation
 It's easy.
 - Download Resourcepack by clicking on green button `Code`.
@@ -18,4 +19,4 @@ It's easy.
             - Linux `~/.minecraft/resourcepacks/`
 - Apply resourcepack by hovering over MizunoPBR, click on arrow and then click on button `Done`.
 ## Warning
-**Do not distribute this edition without the consent of the survivalLABS.**
+**Do not distribute this edition without the consent of the Creotors.**
