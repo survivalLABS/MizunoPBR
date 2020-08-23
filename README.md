@@ -19,4 +19,4 @@ It's easy.
             - Linux `~/.minecraft/resourcepacks/`
 - Apply resourcepack by hovering over MizunoPBR, click on arrow and then click on button `Done`.
 ## Warning
-**Do not distribute this edition without the consent of the Creotors.**
+**Do not distribute this edition without the consent of the Creators.**
